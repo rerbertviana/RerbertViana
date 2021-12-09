@@ -56,7 +56,7 @@
 <h4>You can find me around...</h4>
 
 <left>
-    <a href="https://www.linkedin.com/in/abner-bittencourt/">
+    <a href="https://www.linkedin.com/in/rerbert-brito-viana-279857214/">
         <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href = "mailto:abenrroccha00@gmail.com">
