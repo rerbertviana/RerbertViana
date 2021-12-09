@@ -67,7 +67,7 @@
 <h4>⚡ Some statistics from my profile</h4>
 
 <div>
-  <a href="https://github.com/AbnerBittencourt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerbittencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerbittencourt&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/rerbertviana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rerbertviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerbertviana&layout=compact&langs_count=7&theme=dark"/>
 </div>
