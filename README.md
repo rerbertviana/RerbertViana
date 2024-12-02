@@ -47,7 +47,30 @@
     <a href="#">
         <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
-                                                                                                                            
+    <a href="#">
+        <img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    </a>    
+    <a href="#">
+        <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+    </a>      
+    <a href="#">
+        <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+    </a> 
+    <a href="#">
+        <img height="30px" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=React&logoColor=61dafb" alt="React Native Badge">
+    </a>
+    <a href="#">
+      <img height="30px" src="https://img.shields.io/badge/Cypress-026e00?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress Badge">
+    </a>
+    <a href="#">
+      <img height="30px" src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge">
+    </a>
+    <a href="#">
+      <img height="30px" src="https://img.shields.io/badge/Stryker-4d4d4d?style=for-the-badge&logo=Stryker&logoColor=ffffff" alt="Stryker Badge">
+    </a>
+    <a href="#">
+      <img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=Tailwind_CSS&logoColor=white" alt="Tailwind CSS Badge">
+    </a>
 </left>
 
 <h4>You can find me around...</h4>
