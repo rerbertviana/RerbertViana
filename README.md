@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rerbert Viana 👋🏼</h1>
 
-<p>I currently work as a Full Stack Developer/Software Analist Jr, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Vue 12/12. Feel free to walk through the codes. 💻 </p>
+<p>I currently work as a Full Stack Developer/Software Analist Mid-Level, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Vue 12/12, React and Flutter. Feel free to walk through the codes. 💻 </p>
 
 <hr>
 <h4> 👨🏻‍💻 Back-end</h4>
@@ -23,6 +23,9 @@
     </a>
     <a href="#">
         <img height="30px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
+    </a>
+    <a href="#">
+      <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge">
     </a>
 </left>
 
