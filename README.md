@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rerbert Viana 👋🏼</h1>
 
-<p>I currently work as a Full Stack Developer/Software Analist Mid-Level, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Vue 12/12, React and Flutter. Feel free to walk through the codes. 💻 </p>
+<p>I currently work as a Full Stack Developer/Software Analist Mid-Level, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Vue, React, Flutter and Node. Feel free to walk through the codes. 💻 </p>
 
 <hr>
 <h4> 👨🏻‍💻 Back-end</h4>
