@@ -57,9 +57,6 @@
         <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
     </a>      
     <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-    </a> 
-    <a href="#">
         <img height="30px" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=React&logoColor=61dafb" alt="React Native Badge">
     </a>
     <a href="#">
