@@ -27,6 +27,9 @@
     <a href="#">
       <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge">
     </a>
+   <a href="#">
+       <img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+   </a>    
 </left>
 
 <h4>🚀 Front-end</h4>
@@ -50,9 +53,6 @@
     <a href="#">
         <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    </a>    
     <a href="#">
         <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
     </a>      
