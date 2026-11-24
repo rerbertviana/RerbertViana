@@ -1,7 +1,11 @@
 
-<h1 align="center">Hey, I'm Rerbert Brito Viana 👋</h1>
+<p align="center">
+  <strong>Hey, I'm Rerbert Brito Viana 👋</strong>
+</p>
 
-<h3 align="center">Software Developer | Frontend & Backend</h3>
+<p align="center">
+  <strong>Software Developer | Frontend & Backend</strong>
+</p>
 
 <p align="center">
   <a href="https://rerbert.dev">
@@ -11,7 +15,7 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+<p><strong>🚀 About Me</strong></p>
 
 I'm a Software Developer with **6 years of professional experience**, focused on building modern, scalable and maintainable applications.
 
@@ -29,9 +33,9 @@ I enjoy solving problems, improving application architecture, writing clean code
 
 ---
 
-<h2>🛠️ Technologies & Skills</h2>
+<p><strong>🛠️ Technologies & Skills</strong></p>
 
-<h3>🎨 Frontend Development</h3>
+<p><strong>🎨 Frontend Development</strong></p>
 
 Experienced in developing modern web applications, building reusable components, managing application state and integrating APIs.
 
@@ -56,7 +60,7 @@ Experienced in developing modern web applications, building reusable components,
 
 ---
 
-<h3>⚙️ Backend Development</h3>
+<p><strong>⚙️ Backend Development</strong></p>
 
 Experience developing backend applications, building REST APIs, integrating services, handling data persistence and structuring server-side applications.
 
@@ -76,7 +80,7 @@ Experience developing backend applications, building REST APIs, integrating serv
 
 ---
 
-<h3>🗄️ Databases</h3>
+<p><strong>🗄️ Databases</strong></p>
 
 Experience working with relational and non-relational databases, data modeling and ORM tools.
 
@@ -95,7 +99,7 @@ Experience working with relational and non-relational databases, data modeling a
 
 ---
 
-<h3>📱 Mobile Development</h3>
+<p><strong>📱 Mobile Development</strong></p>
 
 Experience building mobile applications with React Native and JavaScript/TypeScript ecosystems.
 
@@ -110,7 +114,7 @@ Experience building mobile applications with React Native and JavaScript/TypeScr
 
 ---
 
-<h3>🧪 Testing & Software Quality</h3>
+<p><strong>🧪 Testing & Software Quality</strong></p>
 
 Interested in software quality, automated testing, test strategies and maintainability.
 
@@ -128,7 +132,7 @@ Interested in software quality, automated testing, test strategies and maintaina
 
 ---
 
-<h3>🔧 Tools & Workflow</h3>
+<p><strong>🔧 Tools & Workflow</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -149,7 +153,7 @@ Interested in software quality, automated testing, test strategies and maintaina
 
 ---
 
-<h2>💼 Professional Experience</h2>
+<p><strong>💼 Professional Experience</strong></p>
 
 Throughout my career, I've worked on software development projects involving web applications, frontend development, API integration, application maintenance and software quality.
 
@@ -157,9 +161,9 @@ I've contributed to projects in different environments, collaborating with teams
 
 ---
 
-<h2>🚀 Featured Project</h2>
+<p><strong>🚀 Featured Project</strong></p>
 
-<h3>🌐 RERBERT.EXE — Developer Portfolio</h3>
+<p><strong>🌐 RERBERT.EXE — Developer Portfolio</strong></p>
 
 An interactive developer portfolio inspired by RPG character selection systems, combining gaming aesthetics with a professional presentation of my skills, projects and career journey.
 
@@ -174,7 +178,7 @@ An interactive developer portfolio inspired by RPG character selection systems, 
 
 ---
 
-<h2>📫 Connect With Me</h2>
+<p><strong>📫 Connect With Me</strong></p>
 
 <p>
   <a href="https://www.linkedin.com/in/rerbert-brito-viana-279857214/">
