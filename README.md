@@ -1,93 +1,186 @@
-<h1>Hi, I'm Rerbert Viana 👋🏼</h1>
 
-<p>I currently work as a Full Stack Developer/Software Analist Mid-Level, in my profile you can find from API's made with Node.Js+TypeScript to front end systems focused on Vue, React, Flutter and Node. Feel free to walk through the codes. 💻 </p>
+<h1 align="center">Hey, I'm Rerbert Brito Viana 👋</h1>
 
-<hr>
-<h4> 👨🏻‍💻 Back-end</h4>
+<h3 align="center">Software Developer | Frontend & Backend</h3>
 
-<left>
-    <a href="#">
-        <img height=30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
-    </a>
-    <a href="#">
-      <img height="30px" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge">
-    </a>
-   <a href="#">
-       <img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-   </a>    
-</left>
+<p align="center">
+  <a href="https://rerbert.dev">
+    <img src="https://img.shields.io/badge/Portfolio-rerbert.dev-00ff88?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 
-<h4>🚀 Front-end</h4>
+---
 
-<left>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </a>
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
-    </a>      
-    <a href="#">
-        <img height="30px" src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=React&logoColor=61dafb" alt="React Native Badge">
-    </a>
-    <a href="#">
-      <img height="30px" src="https://img.shields.io/badge/Cypress-026e00?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress Badge">
-    </a>
-    <a href="#">
-      <img height="30px" src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge">
-    </a>
-    <a href="#">
-      <img height="30px" src="https://img.shields.io/badge/Stryker-4d4d4d?style=for-the-badge&logo=Stryker&logoColor=ffffff" alt="Stryker Badge">
-    </a>
-    <a href="#">
-      <img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=Tailwind_CSS&logoColor=white" alt="Tailwind CSS Badge">
-    </a>
-</left>
+## 🚀 About Me
 
-<h4>You can find me around...</h4>
+I'm a Software Developer with **6 years of professional experience**, focused on building modern, scalable and maintainable applications.
 
-<left>
-    <a href="https://www.linkedin.com/in/rerbert-brito-viana-279857214/">
-        <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href = "mailto:rerbertviana@gmail.com">
-    <img height="25px"src="https://img.shields.io/badge/-Gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</left>
-<hr>
-<h4>⚡ Some statistics from my profile</h4>
+My main expertise is in **Frontend Development**, working with technologies such as React, Next.js and TypeScript. I also have experience with backend development, mobile applications, API integration, databases and software quality.
 
-<div>
-  <a href="https://github.com/rerbertviana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rerbertviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerbertviana&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I enjoy solving problems, improving application architecture, writing clean code and continuously learning new technologies.
+
+- 💻 6 years of professional software development experience
+- 🎯 Frontend-focused developer with experience across the full stack
+- ⚛️ Specialized in React, Next.js and TypeScript
+- 🔧 Experienced in backend development, REST APIs and database integration
+- 🧪 Interested in automated testing and software quality
+- 📱 Experience with mobile development using React Native
+- 🌐 Portfolio: **[rerbert.dev](https://rerbert.dev)**
+
+---
+
+## 🛠️ Technologies & Skills
+
+### 🎨 Frontend Development
+
+Experienced in developing modern web applications, building reusable components, managing application state and integrating APIs.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
+
+- Component-based architecture
+- Responsive interfaces
+- State management
+- API integration
+- Reusable UI components
+- Performance and maintainability
+- Modern frontend architecture
+
+---
+
+### ⚙️ Backend Development
+
+Experience developing backend applications, building REST APIs, integrating services, handling data persistence and structuring server-side applications.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+- Node.js application development
+- REST API development and integration
+- Backend application architecture
+- Data validation and business logic
+- ORM integration
+- API communication and error handling
+
+---
+
+### 🗄️ Databases
+
+Experience working with relational and non-relational databases, data modeling and ORM tools.
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+- Relational databases
+- NoSQL databases
+- Data modeling
+- Prisma ORM
+- Database integration
+
+---
+
+### 📱 Mobile Development
+
+Experience building mobile applications with React Native and JavaScript/TypeScript ecosystems.
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+- React Native
+- Reusable components
+- API integration
+- Mobile UI development
+
+---
+
+### 🧪 Testing & Software Quality
+
+Interested in software quality, automated testing, test strategies and maintainability.
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stryker-000000?style=for-the-badge&logo=stryker&logoColor=white" />
+</p>
+
+- Unit testing
+- Integration testing
+- End-to-end testing
+- Mutation testing
+- Software quality practices
+
+---
+
+### 🔧 Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
+- Git and version control
+- Docker and containerization
+- Agile methodologies
+- Scrum and Kanban
+- CI/CD workflows
+- AI-assisted development
+
+---
+
+## 💼 Professional Experience
+
+Throughout my career, I've worked on software development projects involving web applications, frontend development, API integration, application maintenance and software quality.
+
+I've contributed to projects in different environments, collaborating with teams and using technologies such as React, TypeScript, Node.js and modern development tools.
+
+---
+
+## 🚀 Featured Project
+
+### 🌐 RERBERT.EXE — Developer Portfolio
+
+An interactive developer portfolio inspired by RPG character selection systems, combining gaming aesthetics with a professional presentation of my skills, projects and career journey.
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Motion
+- Responsive design
+
+🔗 **[Visit my portfolio](https://rerbert.dev)**
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rerbert.dev">
+    <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
