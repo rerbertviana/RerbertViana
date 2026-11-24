@@ -177,7 +177,7 @@ An interactive developer portfolio inspired by RPG character selection systems, 
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rerbert-brito-viana-279857214/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rerbert.dev">
